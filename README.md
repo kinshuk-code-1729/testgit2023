@@ -5,4 +5,4 @@ This is for learning git.
 - *Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.*
 
 ## Github Supports Emoji !
-:+1 ✨ 🐫 🎉 🚀 🤘 :octocat:
+:+1: ✨ 🐫 🎉 🚀 🤘 :octocat:
